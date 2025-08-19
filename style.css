@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to bottom,blue, white);
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.alldiv{
+    font-size:30px;
+}
+
+.inputs{
+    font-size: large;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+
+.counter{
+    background-color: rgb(72, 0, 255);
+    border-radius: 10px;
+    color: rgb(255, 179, 0);
+    padding: 1px ;
+    line-height: 1px;
+    margin-bottom: 20px;
+}
+
+.title{
+    color: rgb(255, 179, 0);
+    text-shadow: 10px 10px 10px black ;
+}
+
+.buttons{
+    padding: 24px ;
+    font-size: 29px;
+    font-weight: 900;
+}
+
+.GuessingRange{
+    text-shadow: 7px 7px 7px black ;
+}
+
+#returnMessage{
+    margin: 30px;
+}
+
+span{
+    margin-left: 10px;
+}
